@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @freeve4h
-- 👀 I’m interested in programming and stuff
-- 🌱 I’m currently not learning NOTHING (that statement is false)
-- 💞️ I’m looking to collaborate on idk... anyone
-- 📫 How to reach me: don't, please
+- i make games.
+- yes
+- i am currently making Secrets of Heraby
 
 <!---
 freeve4h/freeve4h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
