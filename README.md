@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @freeve4h
 - i make games.
 - yes
-- i am currently making Secrets of Heraby
 
 <!---
 freeve4h/freeve4h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
